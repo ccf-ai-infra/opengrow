@@ -1,0 +1,43 @@
+name: 任务
+description: 对本项目提出一个任务，用于后续跟踪和执行。
+title: "[任务]: "
+labels: ["task"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢提出任务目标，期待社区有志愿者帮助实现！
+  - type: textarea
+    id: related-problem
+    attributes:
+      label: 你的任务是否和某个任务或者想法相关？
+      description: 是否清晰并简洁地描述任务是什么，例如：什么时间内完成什么事情。
+          validations:
+      required: false
+  - type: textarea
+    id: desired-solution
+    attributes:
+      label: 该任务清晰的描述是什么？
+      description: 清晰并简洁地描述任务是什么，并给出对应完成任务的标准是什么？例如：需要在XX时间内完成XX任务，完成任务的标准是1）xx 2) xx 3) xx
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 你考虑过已经有任务已经开始做这个事情或者可以合并做的？
+      description: 清晰并简洁地描述是否已经有任务开始做这个事情或者可以合并做的任务。
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 任务背景
+      description: 在此处添加有关任务的背景及其它必要的信息。
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: 意向参与贡献
+      options:
+        - label: 我有意向参与该任务并认领该任务来贡献AI Infra社区
+          required: false
