@@ -1,7 +1,7 @@
-name: 想法建议
-description: 对本项目提出一个想法建议
-title: "[想法建议]: "
-labels: ["enhancement"]
+name: 想法
+description: 对本项目提出一个想法或建议
+title: "[idea]: "
+labels: ["idea"]
 body:
   - type: markdown
     attributes:

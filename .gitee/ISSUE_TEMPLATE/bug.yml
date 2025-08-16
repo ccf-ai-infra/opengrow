@@ -1,6 +1,6 @@
 name: 任务
 description: 对本项目提出一个任务，用于后续跟踪和执行。
-title: "[Task]: "
+title: "[task]: "
 labels: ["task"]
 body:
   - type: markdown
