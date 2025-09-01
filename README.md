@@ -36,3 +36,7 @@ OpenGrow是由CCF开源发展技术委员会(ODTC) AI Infra工作组发起的开
 - 进度看板：实时追踪[任务里程碑](https://gitee.com/ccf-ai-infra/opengrow/issues)
 
 ## 🌍 加入我们
+
+- 关注组织动态 [AI Infra](https://gitee.com/ccf-ai-infra)
+- 加入微信群
+<img src="./images/join_in.png">
