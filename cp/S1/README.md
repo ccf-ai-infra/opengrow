@@ -186,6 +186,10 @@
 ### 赛事联系方式
 
 - 邮箱：zhangjinnan@hotmail.com
+- 官方微信交流群
+
+<img src="./images/cp_group.png">
+
 
 ### 算力平台及算力卷支持
 
