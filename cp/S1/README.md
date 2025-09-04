@@ -150,7 +150,7 @@
 
 #### 📤 提交要求及评分规则
 
-- **参赛资格：** 优化内容可在国产GPU上运行，并被主办方审核合并（Merge）
+- **参赛资格：** 优化内容可在MACA上运行，并被主办方审核合并（Merge）
 - **提交方式：** 通过 PR 提交到 Gitee 仓库（GPUKernelContest），最终以成功 Merge 为准
 
 - **基础得分（Level）：**
@@ -180,7 +180,7 @@
   - 提交时间早者优先
 4. 当同一参赛选手在本赛题有多个赛题的提交时，多个赛题计算累计得分
 
-#### 📂 算子项目仓库参考
+#### 📂 参考MACA开源项目仓库
 
 - https://github.com/MetaX-MACA/FlashMLA
 - https://github.com/MetaX-MACA/mcTVM

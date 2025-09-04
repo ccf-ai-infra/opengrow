@@ -31,8 +31,8 @@ OpenGrow是由CCF开源发展技术委员会(ODTC) AI Infra工作组发起的开
 ## 🛠 你的工作台  
 
 所有协作在线化：
-- 任务机制：直接提交[任务跟踪](https://gitee.com/ccf-ai-infra/opengrow/issues/new?template=bug.yml)
-- 提案机制：直接提交[想法提案](https://gitee.com/ccf-ai-infra/opengrow/issues/new?template=feature.yml)
+- 任务机制：直接提交[任务跟踪](https://gitee.com/ccf-ai-infra/opengrow/issues/new?template=task.yml)
+- 提案机制：直接提交[想法提案](https://gitee.com/ccf-ai-infra/opengrow/issues/new?template=idea.yml)
 - 进度看板：实时追踪[任务里程碑](https://gitee.com/ccf-ai-infra/opengrow/issues)
 
 ## 🌍 加入我们
