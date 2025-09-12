@@ -42,7 +42,8 @@ AI Infrastructure (AI Infra) 工作组隶属于CCF开源发展技术委员会(CC
 让我们一起构建繁荣的开源AI生态系统，为全球开源AI Infra社区提供服务。
 
 - 关注组织动态 [AI Infra](https://gitee.com/ccf-ai-infra)
-- LOGO下载和使用[AI Infra LOGO](https://gitee.com/ccf-ai-infra/opengrow/tree/main/logos)
+- LOGO下载和使用[AI Infra LOGO](https://gitee.com/ccf-ai-infra/opengrow/tree/main/logos/AI Infra)
+
 - 加入微信群
 
 <img src="./images/join_in.png">
