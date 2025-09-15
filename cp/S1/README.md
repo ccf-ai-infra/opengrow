@@ -71,7 +71,7 @@
 - **目标：** 构建测试 GPU 的样本加权的评测数据集（来源：PyTorch、PaddlePaddle、TensorFlow、Jax、MMCV、Transformers 等）
 - **项目价值：** 形成标准的 GPU 评测数据集和评价方法
 - **参赛资格：**
-  参赛者贡献的样本中，被评审通过并正式整合到[GPU CodeForces](https://gitlink.org.cn.com/ccf-ai-infra/GPUCodeForces)数据集项目的样本总数 ≥ 1
+  参赛者贡献的样本中，被评审通过并正式整合到[GPU CodeForces](https://gitlink.org.cn/ccf-ai-infra/GPUCodeForces)数据集项目的样本总数 ≥ 1
 
 #### 📤 提交要求
 
@@ -87,7 +87,7 @@
    - 若仍相同，比加分项得分高者优先
 4. 当同一参赛选手在本赛题有多个赛题的提交时，可累加赛题PR合并的数量，最终以每个选手唯一ID提交合并的总数为准。
 
-> 感兴趣详细了解赛题信息：[子赛题一详细解读](https://gitlink.org.cn/ccf-ai-infra/GPUCodeForces/blob/main/README.md)
+> 感兴趣详细了解赛题信息：[子赛题一详细解读](https://gitlink.org.cn/ccf-ai-infra/GPUCodeForces/tree/main/README.md)
 
 ---
 
@@ -135,7 +135,7 @@
    - 内容完整性高者优先
 4. 注意：当同一参赛选手在本赛题有多个赛题的提交时，只取最高分，不累加多个赛题得分
 
-> 感兴趣详细了解赛题信息：[赛题二详细解读](https://gitlink.org.cn/ccf-ai-infra/GPUApps/blob/main/README.md)
+> 感兴趣详细了解赛题信息：[赛题二详细解读](https://gitlink.org.cn/ccf-ai-infra/GPUApps/tree/main/README.md)
 
 
 ---
@@ -192,7 +192,7 @@
 - [mcPytorch](https://github.com/MetaX-MACA/mcPytorch)
 - [gpuBenchmark](https://github.com/MetaX-MACA/gpuBenchmark)
 
-> 感兴趣详细了解赛题信息：[子赛题三详细解读](https://gitlink.org.cn/ccf-ai-infra/GPUKernelContest/blob/main/README.md)
+> 感兴趣详细了解赛题信息：[子赛题三详细解读](https://gitlink.org.cn/ccf-ai-infra/GPUKernelContest/tree/main/README.md)
 
 ---
 
