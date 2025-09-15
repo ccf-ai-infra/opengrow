@@ -2,12 +2,12 @@
 
 🔥 连接未来AI世界 | 开放共建 | 透明协作 | 成长共享
 
-- 愿景：用开源精神驱动 AI 进化，让智能更开放、更平等。
+- 愿景：用开源精神驱动 AI 进化，让智能更开放、平等。
 - 使命：通过开放协作降低 AI 开发门槛，加速技术民主化进程。
 
 ## 🚀 我们是谁
 
-OpenGrow是由CCF开源发展技术委员会(ODTC) AI Infra工作组发起的开源志愿者计划项目，依托「CCF-光华青年开源基金」，汇聚高校、企业及开发者公益的力量，致力于构建开源AI基础设施项目健康发展，建立行业开放标准，推动产学研协同创新。开源、AI、Infra在这里生长，未来由你定义。
+OpenGrow是由中国计算机学会(CCF)开源发展技术委员会(ODTC) AI Infra工作组发起的开源志愿者计划项目，依托「CCF-光华青年开源基金」，汇聚高校、企业及开发者公益的力量，致力于构建开源AI基础设施项目健康发展，建立行业开放标准，推动产学研协同创新。开源、AI、Infra在这里生长，未来由你定义。
 
 ## 🌟 立即行动
 
@@ -31,13 +31,11 @@ OpenGrow是由CCF开源发展技术委员会(ODTC) AI Infra工作组发起的开
 ## 🛠 你的工作台  
 
 所有协作在线化：
-- 任务机制：直接提交[任务跟踪](https://gitee.com/ccf-ai-infra/opengrow/issues/new?template=task.yml)
-- 提案机制：直接提交[想法提案](https://gitee.com/ccf-ai-infra/opengrow/issues/new?template=idea.yml)
-- 进度看板：实时追踪[任务里程碑](https://gitee.com/ccf-ai-infra/opengrow/issues)
+- 任务机制：提交Iusse进行[任务跟踪](https://www.gitlink.org.cn/ccf-ai-infra/opengrow/issues/new)
 
 ## 🌍 加入我们
 
-- 关注组织动态 [AI Infra](https://gitee.com/ccf-ai-infra)
+- 关注组织动态 [AI Infra](https://www.gitlink.org.cn/ccf-ai-infra)
 - 加入微信群
 
 <img src="./images/join_in.png">
