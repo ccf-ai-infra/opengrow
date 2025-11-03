@@ -39,3 +39,5 @@ OpenGrow是由中国计算机学会(CCF)开源发展技术委员会(ODTC) AI Inf
 - 加入微信群
 
 <img src="./images/join_in.png">
+
+<img src="./images/join_in.png">
