@@ -75,7 +75,7 @@
 
 #### 📤 提交要求
 
-- 每位选手按赛题解读要求提交内容：先开赛题Iusse，关联Iusse ID的PR方式提交，详见：[001-sample](https://gitlink.org.cn/ccf-ai-infra/GPUCodeForces/tree/main/example/001-example)
+- 每位选手按赛题解读要求提交内容：先开赛题Issue，关联Issue ID的PR方式提交，详见：[001-sample](https://gitlink.org.cn/ccf-ai-infra/GPUCodeForces/tree/main/example/001-example)
 - **接受数量** = 提交并被接受的样本总数
 
 #### 🏆 评分规则及排名机制
@@ -116,8 +116,8 @@
 
 #### 📤 提交要求及评分标准
 
-- 每位选手按赛题解读要求提交内容：先开赛题Iusse，关联Iusse ID的PR方式提交。
-- 如提交直接是上游仓库的PR，先开赛题Iusse，Iusse关联上游PR<注意：最终审核已唯一email地址是否为同一账号为唯一依据，注意：请其它上游仓库用相同email地址作为提交邮箱>。
+- 每位选手按赛题解读要求提交内容：先开赛题Issue，关联Issue ID的PR方式提交。
+- 如提交直接是上游仓库的PR，先开赛题Issue，Issue关联上游PR<注意：最终审核已唯一email地址是否为同一账号为唯一依据，注意：请其它上游仓库用相同email地址作为提交邮箱>。
 
 - **评分标准：**
   
@@ -156,7 +156,7 @@
 - **参赛资格：** 优化内容可在MACA上运行，并被主办方审核合并（Merge）
 - **提交方式：** 
   - 通过 PR 提交到 Gitlink 仓库（GPUKernelContest），最终以成功 Merge 为准
-  - 如提交直接是上游开源仓库的PR，先开赛题Iusse，Iusse关联上游PR<注意：最终审核已唯一email地址是否为同一账号为唯一依据，注意：请其它上游仓库用相同email地址作为提交邮箱>。
+  - 如提交直接是上游开源仓库的PR，先开赛题Issue，Issue关联上游PR<注意：最终审核已唯一email地址是否为同一账号为唯一依据，注意：请其它上游仓库用相同email地址作为提交邮箱>。
 
 - **基础得分（Level）：**
   
