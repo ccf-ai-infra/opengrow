@@ -169,7 +169,7 @@ CCF ODTC AI Infra 组织下有 25 个仓库，看上去很杂，其实是三级�
 - [贡献指南 · Gitee/GitHub 版](./how-to-contribute.md) —— 基于网页端操作的逐步说明
 - [AI Infra 工作组介绍](./AIInfra.md) —— 组织架构、核心目标、重点工作
 - [工作组背景与年度目标](./AIInfra_target.md) —— 基金来源与年度任务
-- [LOGO 下载与使用](./logos/AI%20Infra) —— 四套配色，含浅色/深色背景版与社交头像
+- [LOGO 下载与使用](./logos) —— 蓝 / 白 / 蓝白三版本 PNG 与单张 jpg，设计源文件见内部素材库
 - [许可协议](./LICENSE)
 
 ## 📄 许可协议
