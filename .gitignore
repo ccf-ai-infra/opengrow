@@ -1,0 +1,65 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# AI 工具与个人环境配置（本地使用，不入库）
+.claude/
+.workbuddy/
+.codebuddy/
+.cursor/
+.aider*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+dist/
+.next/
+out/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# 构建产物与临时文件
+build/
+.cache/
+*.tmp
+*.bak
+*.orig
+
+# 设计源文件（体积大，不入库；如需留存请放对象存储或网盘）
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# 以下目录需要入库，请勿加入忽略：
+# .gitee/   —— Issue 模板（idea.yml / task.yml / config.yaml）
+# logos/    —— LOGO 与视觉素材
+# images/   —— 文档配图
+# cp/       —— 课程与赛题内容

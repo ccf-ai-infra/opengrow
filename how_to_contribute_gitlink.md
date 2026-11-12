@@ -16,8 +16,7 @@
 
 ##  总体流程
 
-```mermaid
-flowchart TD
+```
   A[Fork 仓库到自己的 Gitlink 账户] --> B[Clone 本地并设置 upstream]
   B --> C[创建开发分支]
   C --> D[修改代码并提交 commit]
