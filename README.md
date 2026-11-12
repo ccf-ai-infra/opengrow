@@ -1,19 +1,16 @@
 <p align="center">  
-  <img src=*"./logos/AI Infra/AI Infra.png" width="210" alt="CCF ODTC AI Infra 工作组">  
-</p>*
+  <img src="./logos/aiinfra.jpg" width="210" alt="CCF ODTC AI Infra 工作组">  
+</p>
 
-*<h1 align="center">OpenGrow · 开源 AI Infra 入门实践者协作计划</h1>*
-
-*<p align="center">  
+<h1 align="center">OpenGrow · 开源 AI Infra 入门实践者协作计划</h1>
+<p align="center">  
   一个由入门者参与、也由入门者带入门者的开源协作空间。  
-  
   你不需要先成为专家，才有资格开始贡献。  
-</p>*
-
-*<p align="center">  
-  中国计算机学会（CCF）开源发展技术委员*会（ODTC）AI Infra 工作组 发起  
-  
-  依托「CCF-光华青年开源基金」 ｜ 木兰宽松许可证 v2  
+  我们亲身实践开源并帮助他人。
+</p>
+<p align="center">  
+  中国计算机学会（CCF）开源发展技术委员会（ODTC）AI Infra 工作组 发起  
+  依托「CCF-光华青年开源基金」
 </p>
 
 ---
@@ -133,7 +130,7 @@ CCF ODTC AI Infra 组织下有 25 个仓库，看上去很杂，其实是三级�
 另外三个标签用来表达别的东西：
 
 - `入门任务` —— 专为第一次参与的人准备，不要求做完，也不追究半途而废
-- `灵光一现` —— 你自己想到、还没立项的点子，欢迎来拍砖。请附&#x5E26;**「最小第一步」**，两周内会得到明确回应：采纳、合流，或暂缓并说明原因
+- `灵光一现` —— 你自己想到、还没立项的点子，欢迎来拍砖。请附带**「最小第一步」**，两周内会得到明确回应：采纳、合流，或暂缓并说明原因
 - `建设性反对意见` —— 基于数据的反对，比附和更有价值
 
 两条约定：
